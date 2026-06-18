@@ -282,7 +282,7 @@ Define your variables (only the first line to edit — use **your first name**, 
 
   ```bash
   # macOS / Linux / Git Bash
-  FIRSTNAME=frederic            # ← the ONLY line to edit
+  FIRSTNAME=kevin            # ← the ONLY line to edit
   RG=$FIRSTNAME                 # your resource group (already created for you)
   PLAN=${FIRSTNAME}plan
   API_NAME=${FIRSTNAME}wineapi  # must be globally unique: becomes <API_NAME>.azurewebsites.net
